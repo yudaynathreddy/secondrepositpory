@@ -1,0 +1,2 @@
+->(n-1)*(n-2)/2;
+->return 1+fun(ind-1,a,b,b[ind],a[ind]);
